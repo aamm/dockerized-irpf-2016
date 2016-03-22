@@ -5,7 +5,7 @@ Primeiro faça o build da imagem:
 
     docker build -t aaakiraaa/dockerized-irpf-2016 .
 
-A seguir execute o seguinte script localmente:
+A seguir execute o seguinte script localmente (arquivo *dockerized-irpf-2016* no repositorio GIT):
 
     #!/usr/bin/env bash
     
