@@ -9,5 +9,5 @@ else
         -v /dev/snd:/dev/snd \
         -v $HOME/irpf-2016-shared:/root/shared:rw \
         --name irpf-2016 \
-        irpf-2016 /bin/irpf-2016
+        aaakiraaa/dockerized-irpf-2016 /bin/irpf-2016
 fi

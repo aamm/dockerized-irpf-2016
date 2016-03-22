@@ -18,7 +18,7 @@ A seguir execute o seguinte script localmente:
             -v /dev/snd:/dev/snd \
             -v $HOME/irpf-2016-shared:/root/shared:rw \
             --name irpf-2016 \
-            irpf-2016 /bin/irpf-2016
+            aaakiraaa/dockerized-irpf-2016 /bin/irpf-2016
     fi
 
 Infelizmente não é possível automatizar a instalação do programa de declaração de imposto de renda. Então a primeira execução do container pedirá que você para você instalar o programa da declaração do imposto de renda e a seguir o ReceitaNet. Simplesmente deixe toda as opções **com o valor default** e termine a instalação clicando em "Avançar".
