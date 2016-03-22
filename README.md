@@ -3,7 +3,7 @@ Dockerized Brazilian income tax declaration app
 
 Primeiro faça o build da imagem:
 
-    docker build -t irpf-2016 .
+    docker build -t aaakiraaa/dockerized-irpf-2016 .
 
 A seguir execute o seguinte script localmente:
 
